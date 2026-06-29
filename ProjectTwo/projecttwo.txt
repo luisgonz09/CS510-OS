@@ -1,0 +1,2 @@
+CS 510 Project Two sample file.
+This file is used to display file statistics.
